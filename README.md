@@ -1,2 +1,3 @@
-# LBGO
-Lame Boy : Global Offensive
+---
+permalink: /index.html
+---
