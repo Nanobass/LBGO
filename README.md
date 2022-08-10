@@ -1,3 +1,3 @@
 ---
-permalink: pge.html
+permalink: /pge.html
 ---
